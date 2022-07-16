@@ -7,3 +7,7 @@ Add a cron job to your root crontab. Needs root access to read the temperatures
 * * * * * python3 /path_to_script/hdd_monitor.py
 
 The entities will be named server_temp_disk
+
+Donations welcome:
+
+SCP: 29397f5ac09162c48aeea537c4950d90a6b370899a2c8054a71e82ab4954228bb63e59c56464
